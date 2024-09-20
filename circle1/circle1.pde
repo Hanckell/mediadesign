@@ -8,7 +8,7 @@ int dir = -1;
 
 void setup()
 {
-  size(800,600,P3D);
+  size(800,600);
   surface.setResizable(true);
   for(int i = 0; i < nc; i++)
   {
